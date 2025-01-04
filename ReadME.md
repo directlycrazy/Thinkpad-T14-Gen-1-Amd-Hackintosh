@@ -1,4 +1,4 @@
-# ThinkPad T14 Gen 1 AMD Hackintosh
+# ThinkPad T14 Gen 1 AMD Hackintosh (Ryzen 5)
 
 > **A comprehensive guide to using a ThinkPad for macOS**
 
@@ -6,9 +6,9 @@
 
 | Component             | Detail                  |
 |-----------------------|-------------------------|
-| **CPU**               | Ryzen 7 Pro 4750U       |
-| **GPU**               | Vega 7                  |
-| **RAM**               | 32GB                    |
+| **CPU**               | Ryzen 5 Pro 4650U       |
+| **GPU**               | Vega 6                  |
+| **RAM**               | 16GB                    |
 | **Motherboard**       | 20UDCTO1WW              |
 | **Audio Codec**       | ALC257                  |
 | **Ethernet Card**     | RTL811                  |
